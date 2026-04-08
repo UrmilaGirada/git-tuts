@@ -1,4 +1,6 @@
 Hello Git 
 Learning Git is fun 
-This is a new feature 
+This is a new feature
 This line is from local 
+This line is from GitHub
+
